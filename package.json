@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "docgen": "vue-docgen",
+    "docgen:watch": "vue-docgen --watch"
+  },
+  "dependencies": {
+    "vue-docgen-cli": "^4.63.0"
+  }
+}
